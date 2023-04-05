@@ -3,7 +3,7 @@ import tkinter as tk
 from PIL import Image, ImageTk
 
 # Set up parameters for API request
-api_key = '< AIzaSyBcZJR24IegQGSVyeWF2Hz5FlRg9Ojp7lU>'
+api_key = '<AIzaSyBcZJR24IegQGSVyeWF2Hz5FlRg9Ojp7lU>'
 search_term = 'cat'  # Change this to the search term you want
 
 params = {
